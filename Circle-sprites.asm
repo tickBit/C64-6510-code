@@ -23,7 +23,7 @@ loop2   lda #1
         cpx #8
         bne loop2
 
-        ; raster inerrupt: https://codebase.c64.org/doku.php?id=base:introduction_to_raster_irqs
+        ; raster interrupt: https://codebase.c64.org/doku.php?id=base:introduction_to_raster_irqs
 
         sei        ;disable maskable IRQs
 
