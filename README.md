@@ -7,6 +7,8 @@
 - Rastercolors.asm.
     Some raster color bars and text scrolling.
 
+The both programs can be started by typing "sys 49152" in basic..
+
 ## Some more info
 
 I'm planning to put in this repo some C64's 6510 codes..
