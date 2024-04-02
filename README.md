@@ -12,7 +12,7 @@
 
 All the programs can be started by typing "sys 49152" in basic..
 
-Pictures of the two programs:
+Pictures of the programs:
 
 ![Rastercolors](https://github.com/tickBit/C64-6510-code/assets/61118857/bad09318-0ef5-4efb-b3eb-89937bbac885)
 ![circle-sprites](https://github.com/tickBit/C64-6510-code/assets/61118857/d12cc553-a9c4-4223-b5fa-4adc4c1df50b)
