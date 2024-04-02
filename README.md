@@ -7,7 +7,7 @@
 - Rastercolors.asm.
     Some raster color bars and text scrolling.
 
-- ChrMandel.asm
+- ChrMandel.asm.
     4 color Mandelbrot set with 8 x 8 characters
 
 All the programs can be started by typing "sys 49152" in basic..
@@ -20,4 +20,4 @@ Pictures of the programs:
 
 ## Some more info
 
-I'm planning to put in this repo some C64's 6510 codes..
+I'm planning to put into this repo some C64's 6510 codes..
