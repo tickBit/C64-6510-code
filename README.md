@@ -10,7 +10,7 @@
 - ChrMandel.asm
     4 color Mandelbrot set with 8 x 8 characters
 
-All the both programs can be started by typing "sys 49152" in basic..
+All the programs can be started by typing "sys 49152" in basic..
 
 Pictures of the two programs:
 
