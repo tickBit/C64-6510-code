@@ -8,11 +8,14 @@
     Some raster color bars and text scrolling.
 
 - ChrMandel.asm.
-    4 color Mandelbrot set with 8 x 8 characters
+    4 color Mandelbrot set with 8 x 8 characters.
+
+- ChrMandel-palette.asm.
+    8 color version of the 8 x 8 characters Mandelbrot set..
 
 All the programs can be started by typing "sys 49152" in basic..
 
-Pictures of the programs:
+Pictures:
 
 ![Rastercolors](https://github.com/tickBit/C64-6510-code/assets/61118857/bad09318-0ef5-4efb-b3eb-89937bbac885)
 ![circle-sprites](https://github.com/tickBit/C64-6510-code/assets/61118857/d12cc553-a9c4-4223-b5fa-4adc4c1df50b)
