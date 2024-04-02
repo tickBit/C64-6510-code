@@ -7,6 +7,9 @@
 - Rastercolors.asm.
     Some raster color bars and text scrolling.
 
+- ChrMandel.asm
+    4 color Mandelbrot set with 8 x 8 characters
+
 The both programs can be started by typing "sys 49152" in basic..
 
 Below are pictures of the two programs mentioned above:
