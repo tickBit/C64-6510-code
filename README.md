@@ -10,13 +10,13 @@
 - ChrMandel.asm
     4 color Mandelbrot set with 8 x 8 characters
 
-The both programs can be started by typing "sys 49152" in basic..
+All the both programs can be started by typing "sys 49152" in basic..
 
-Below are pictures of the two programs mentioned above:
+Pictures of the two programs:
 
 ![Rastercolors](https://github.com/tickBit/C64-6510-code/assets/61118857/bad09318-0ef5-4efb-b3eb-89937bbac885)
 ![circle-sprites](https://github.com/tickBit/C64-6510-code/assets/61118857/d12cc553-a9c4-4223-b5fa-4adc4c1df50b)
-
+![C64-mandelbrot](https://github.com/tickBit/C64-6510-code/assets/61118857/2b1317ee-7f31-40c4-b54b-f4bf60f72cdc)
 
 ## Some more info
 
