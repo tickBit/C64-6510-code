@@ -23,7 +23,8 @@ Pictures:
 ![Rastercolors](https://github.com/tickBit/C64-6510-code/assets/61118857/bad09318-0ef5-4efb-b3eb-89937bbac885)
 ![circle-sprites](https://github.com/tickBit/C64-6510-code/assets/61118857/d12cc553-a9c4-4223-b5fa-4adc4c1df50b)
 ![c64-mandelbrot-pal](https://github.com/tickBit/C64-6510-code/assets/61118857/557f3a97-331a-4cca-aad8-6d44f62d4725)
+![SnowQueen](https://github.com/user-attachments/assets/519e0743-c5c6-4855-b483-f9bc428dee6e)
 
 ## Some more info
 
-I'm planning to put into this repo some C64's 6510 codes..
+I'm planning to put into this repo some C64 6510 codes..
