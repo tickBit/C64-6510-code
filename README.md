@@ -14,7 +14,7 @@
     8 color version of the 8 x 8 characters Mandelbrot set..
 
 - Snowqueen.asm.
-    Just a little test to show Koala picture while SID music is playing in the background.
+    Just a little test to display Koala picture while SID music is playing in the background.
 
 All the programs can be started by typing "sys 49152" in basic..
 
